@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "E6EJIw3Q9Yp6oIK5cKUtC"
+uri = "file://artifacts/portfolio/public/images/portfolio-1.png"
+type = "image"
+title = "cinematic male portrait"
+
+[[generated]]
+id = "-OB6GT7VwMtiKtR7H1SkU"
+uri = "file://artifacts/portfolio/public/images/portfolio-2.png"
+type = "image"
+title = "dramatic female portrait"
+
+[[generated]]
+id = "kQ8Lxxw6SH9HlaMkjNJgb"
+uri = "file://artifacts/portfolio/public/images/portfolio-3.png"
+type = "image"
+title = "sidi bou said landscape"
+
+[[generated]]
+id = "ZWlsBIcZlJNuJ2iBUBlhT"
+uri = "file://artifacts/portfolio/public/images/portfolio-4.png"
+type = "image"
+title = "sahara desert landscape"
+
+[[generated]]
+id = "6EvnnnLgyc3BAWgXtf60A"
+uri = "file://artifacts/portfolio/public/images/portfolio-5.png"
+type = "image"
+title = "tunis medina street"
+
+[[generated]]
+id = "QjkMg5RvLy8yI_wWiQN_4"
+uri = "file://artifacts/portfolio/public/images/portfolio-6.png"
+type = "image"
+title = "cinematic street silhouette"
+
+[[generated]]
+id = "eaksBr9T4l8cCVorVl-d4"
+uri = "file://artifacts/portfolio/public/images/portfolio-7.png"
+type = "image"
+title = "coffee shop still life"
+
+[[generated]]
+id = "PpqwI5tKAyRqb7FeiBMUP"
+uri = "file://artifacts/portfolio/public/images/portfolio-8.png"
+type = "image"
+title = "artisan hands working"
+
+[[generated]]
+id = "3nyMghfCR20oPKPIf1vSx"
+uri = "file://artifacts/portfolio/public/images/portfolio-9.png"
+type = "image"
+title = "mediterranean sunset"
+
+[[generated]]
+id = "SklO0-fCFFe3S6Tqj2yMZ"
+uri = "file://artifacts/portfolio/public/images/portfolio-10.png"
+type = "image"
+title = "palm tree silhouettes"

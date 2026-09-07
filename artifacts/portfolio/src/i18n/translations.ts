@@ -50,7 +50,6 @@ export const translations = {
         { title: 'Valentine Social Reel', type: 'Social / Short-form' },
         { title: 'Spark', type: 'Social / Campaign' },
         { title: 'Done Sofien Gym', type: 'Sports / Social' },
-        { title: 'Socal Opening 1', type: 'Event / Social' },
         { title: 'Sunset Socal', type: 'Lifestyle / Social' }
       ]
     },
@@ -124,7 +123,6 @@ export const translations = {
         { title: 'Valentine Social Reel', type: 'Social / Format court' },
         { title: 'Spark', type: 'Social / Campagne' },
         { title: 'Done Sofien Gym', type: 'Sport / Réseaux sociaux' },
-        { title: 'Socal Opening 1', type: 'Événement / Réseaux sociaux' },
         { title: 'Sunset Socal', type: 'Lifestyle / Réseaux sociaux' }
       ]
     },

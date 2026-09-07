@@ -9,7 +9,6 @@ const reelFiles = [
   '/videos/valentine-social-reel.mp4',
   '/videos/spark-reel.mp4',
   '/videos/done-sofien-gym.mp4',
-  '/videos/socal-opening-1.mp4',
   '/videos/sunset-socal.mp4',
 ];
 
@@ -17,7 +16,6 @@ const reelPosters = [
   '/images/reels/valentine-social-reel.jpg',
   '/images/reels/spark-reel.jpg',
   '/images/reels/done-sofien-gym.jpg',
-  '/images/reels/socal-opening-1.jpg',
   '/images/reels/sunset-socal.jpg',
 ];
 

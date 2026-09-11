@@ -50,7 +50,11 @@ export const translations = {
         { title: 'Valentine Social Reel', type: 'Social / Short-form' },
         { title: 'Spark', type: 'Social / Campaign' },
         { title: 'Done Sofien Gym', type: 'Sports / Social' },
+<<<<<<< HEAD
         { title: 'Sunset Socal', type: 'Lifestyle / Social' }
+=======
+        { title: 'Ferrari f488 spider done', type: 'Automotive / Social' }
+>>>>>>> ed45779 (Ferrari f488 spider done)
       ]
     },
     about: {
@@ -123,7 +127,11 @@ export const translations = {
         { title: 'Valentine Social Reel', type: 'Social / Format court' },
         { title: 'Spark', type: 'Social / Campagne' },
         { title: 'Done Sofien Gym', type: 'Sport / Réseaux sociaux' },
+<<<<<<< HEAD
         { title: 'Sunset Socal', type: 'Lifestyle / Réseaux sociaux' }
+=======
+        { title: 'Ferrari f488 spider done', type: 'Automobile / Réseaux sociaux' }
+>>>>>>> ed45779 (Ferrari f488 spider done)
       ]
     },
     about: {
@@ -196,8 +204,7 @@ export const translations = {
         { title: 'Valentine Social Reel', type: 'سوشال / فيديو قصير' },
         { title: 'Spark', type: 'سوشال / حملة' },
         { title: 'Done Sofien Gym', type: 'رياضة / سوشال' },
-        { title: 'Socal Opening 1', type: 'فعالية / سوشال' },
-        { title: 'Sunset Socal', type: 'لايف ستايل / سوشال' }
+        { title: 'Ferrari f488 spider done', type: 'سيارات / سوشال' }
       ]
     },
     about: {

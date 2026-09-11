@@ -9,14 +9,22 @@ const reelFiles = [
   '/videos/valentine-social-reel.mp4',
   '/videos/spark-reel.mp4',
   '/videos/done-sofien-gym.mp4',
+<<<<<<< HEAD
   '/videos/sunset-socal.mp4',
+=======
+  '/videos/ferrari-f488-spider-done.mp4',
+>>>>>>> ed45779 (Ferrari f488 spider done)
 ];
 
 const reelPosters = [
   '/images/reels/valentine-social-reel.jpg',
   '/images/reels/spark-reel.jpg',
   '/images/reels/done-sofien-gym.jpg',
+<<<<<<< HEAD
   '/images/reels/sunset-socal.jpg',
+=======
+  '',
+>>>>>>> ed45779 (Ferrari f488 spider done)
 ];
 
 const serviceIcons = [Video, Camera, Clapperboard, Sparkles];
@@ -174,7 +182,7 @@ export default function Home() {
                 <div className="relative aspect-[9/16] bg-black overflow-hidden">
                   <video
                     src={src}
-                    poster={reelPosters[index]}
+                    poster={reelPosters[index] || undefined}
                     controls
                     preload="metadata"
                     playsInline
